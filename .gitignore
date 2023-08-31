@@ -1,0 +1,12 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Compiled Binary executables
+*.exe
+*.out
+*.test
+
+# Dependency directories
+vendor/
