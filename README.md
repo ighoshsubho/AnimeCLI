@@ -25,7 +25,7 @@ Before you begin, ensure you have the following:
 1. Clone this repository to your local machine:
 
 ```bash
-https://github.com/ighoshsubho/AnimeCLI
+git clone https://github.com/ighoshsubho/AnimeCLI
 ```
 
 2. Change directory to the project folder:
