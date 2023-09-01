@@ -58,6 +58,12 @@ Example:
 
 This will display the latest 10 anime news items from the Anime News Network RSS feed.
 
+Also if you want the access of this command to everywhere in your terminal just type:
+
+```bash
+sudo mv AnimeCLI /usr/local/bin
+```
+
 ## Acknowledgments 🙏
 
 This CLI app utilizes the Anime News Network RSS feed to fetch and display anime news. 
